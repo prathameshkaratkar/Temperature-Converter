@@ -122,7 +122,7 @@ ng e2e
 - **HTML5**: Markup language
 - **CSS3**: Styling
 - **Angular CLI**: Command line interface for Angular
-- **Karma**: Test runner for unit tests
+
 
 ## Browser Support
 
